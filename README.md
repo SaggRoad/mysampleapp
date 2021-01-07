@@ -1,2 +1,2 @@
 # mysampleapp
-This is an initial load
+This is an initial load for a sample app
